@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+}
+
+h1{
+  margin-top: 10vh;
+  font-size: 3em;
+}
+img{
+  width: inherit;
+  z-index: -1;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+#container{
+  width: 80%;
+  height: 60%;
+  padding-left: 10%;
+  margin-top: 5vh;
+}
+#map_plot{
+
+}
+#Dropdown{
+
+}
